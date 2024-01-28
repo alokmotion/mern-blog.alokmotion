@@ -1,3 +1,5 @@
+# Guide
+
 --> npm create vite@latest
 
 choose project name : client 
@@ -39,3 +41,34 @@ npm run dev
 
 
 ----------------------------------------------------------------
+
+
+--> Create pages and routes
+
+src -> pages -->
+
+About
+SignIn
+SignUp
+Dashboard
+Home
+Projects
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------
+//Packages npm i
+
+react-router-dom
+
+
+
