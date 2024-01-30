@@ -56,7 +56,8 @@ Projects
 
 
 
-
+-------------------
+to create pakage.json file command - npm init -y
 
 
 
